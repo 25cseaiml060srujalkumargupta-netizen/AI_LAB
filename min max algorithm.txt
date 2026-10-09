@@ -1,0 +1,8 @@
+min max algorithm
+min max algorithm is the recursive search algorithm that uses the optimal move for a player by assuming that the opponent will also play optimally.it aims to maximize the players minimum guaranteed payoff while minimizing the opponents maximum advantages. 
+
+max player-tries to choose the move with the highest possible score
+min player-tries to choose the move with the lowest possible score
+the algorithm explore all possible future moves, assigns values to the final game state , and works backward to select the best move
+examples:-chess,tic-tac-too
+

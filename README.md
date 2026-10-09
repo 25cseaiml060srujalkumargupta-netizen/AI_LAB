@@ -1,1 +1,1 @@
-# AI_LAB
+# AI-LAB
